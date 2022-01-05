@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: 'Lobster', cursive;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  margin: 55px 0 0 0;
+}
+
+.head-section {
+  display: flex;
+}
+
+.half-width {
+  width: 50%;
+  margin-left: 100px;
+}
+
+.half-width img {
+  width: 70%;
+}
+
+.half-width p {
+  margin-bottom: 50px;
+}
+
+.dev-color {
+  color: #f9a825;
+}
+
+.name-color {
+  color: rgb(11, 243, 107);
+}
+
+.link-button {
+  background-color: #c8ff02;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 7px;
+}
