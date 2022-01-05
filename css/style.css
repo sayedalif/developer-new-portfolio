@@ -47,3 +47,93 @@ h1 {
   cursor: pointer;
   border-radius: 7px;
 }
+
+/* 2nd section */
+
+.middle-section {
+  display: flex;
+  margin-top: 100px;
+}
+
+.third-section {
+  margin: 90px;
+}
+
+.third-section-flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.third-section-first-container {
+  box-shadow: 5px 7px 40px grey;
+  width: 30%;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.third-section-first-container h1 {
+  margin: 0;
+  color: #c8ff02;
+  text-transform: uppercase;
+}
+
+.third-section-first-container p small {
+  text-transform: uppercase;
+  color: #f9a825;
+}
+
+.third-section-first-container p {
+  color: rgb(105, 105, 105);
+}
+
+.third-section-second-container {
+  box-shadow: 5px 7px 40px grey;
+  width: 30%;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.third-section-second-container h1 {
+  margin: 0;
+  color: #c8ff02;
+  text-transform: uppercase;
+}
+
+.third-section-second-container p small {
+  text-transform: uppercase;
+  color: #f9a825;
+}
+
+.third-section-second-container p {
+  color: rgb(105, 105, 105);
+}
+
+.third-section-third-container {
+  box-shadow: 5px 7px 40px grey;
+  width: 30%;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.third-section-third-container h1 {
+  margin: 0;
+  color: #c8ff02;
+  text-transform: uppercase;
+}
+
+.third-section-third-container p small {
+  text-transform: uppercase;
+  color: #f9a825;
+}
+
+.third-section-third-container p {
+  color: rgb(105, 105, 105);
+}
+
+.third-section-heading {
+  text-align: center;
+  text-transform: uppercase;
+  margin: 10px 0 10px 0;
+  color: rgb(170, 163, 163);
+}
